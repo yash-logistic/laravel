@@ -73,7 +73,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 composer create-project laravel/laravel:^9 laravel-vite-app
 ```
 
-2.navigate to project folder:
+2. navigate to project folder:
 
 ```
 cd laravel-vite-app
